@@ -1,7 +1,7 @@
-# SI-GuidedProject-5220-1628069084
+# TO-DO MANAGEMENT
 
+VIDEO LINK : https://drive.google.com/file/d/1EpIF1yhpwmTwZNKAtt9wpUhi2EFer6wn/view?usp=sharing
 
-todo-management
 To do application project (SB1- Java spring boot)
 
 TO-DO List is a list of tasks that are needed to be completed in the future and arranged according to priority order.The application consists of secured access and after login, we get a display having different navigation options(home,todos,logout).
